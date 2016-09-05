@@ -1,0 +1,17 @@
+@font-face{
+ font-family: matrix;
+ src: url(MATRIX.ttf);
+}
+
+
+/*#gameCanvas{
+background-color: lightblue;
+}*/
+#gameCanvas{
+	background: url('imgs/bg.png');
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
